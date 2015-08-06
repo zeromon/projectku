@@ -1,0 +1,307 @@
+		/*landing page*/
+		body a:hover{
+			text-decoration: none;
+		}
+		.home-signup{
+			/*margin:3% 25%;*/
+			/*height: 400px;*/
+			margin-top: 2%;
+		}
+		.right{
+			margin: 2% 0;
+			height: 270px;
+			border-left: 1px #DCDCDC solid;
+		}
+		.left{
+			margin: 2% 0;
+			height: 270px;
+		}
+		.login-container{
+			border:1px #DCDCDC solid;
+		}
+		.singnup{
+			margin-top: 4%;
+			height: 270px;
+			/*font-family: verdana;*/
+		}
+		.sign-in-social{
+			/*width:90%;*/
+			height: 30px;
+			margin-bottom: 20px;
+		}
+		.gplus{
+			background-color: #DF4930;
+			border-color: #DF4930;
+			width: 100%;
+		}
+		.fb{
+			background-color: #507CC0;
+			border-color: #507CC0;
+			width: 100%;
+		}
+		.twitter{
+			background-color: #64CCF1;
+			border-color: #64CCF1;
+			width: 100%;
+		}
+		.linkedin{
+			background-color: #0077B5;
+			border-color: #0077B5;
+			width: 100%;
+		}
+		.gplus:hover{
+			background-color: #DF4930;
+			border-color: #DF4930;
+			color: #C0C0C0;
+		}
+		.fb:hover{
+			background-color: #507CC0;
+			border-color: #507CC0;
+			color: #C0C0C0;
+		}
+		.twitter:hover{
+			background-color: #64CCF1;
+			border-color: #64CCF1;
+			color: #808080;
+		}
+		.linkedin:hover{
+			background-color: #0077B5;
+			border-color: #0077B5;
+			color: #C0C0C0;
+		}
+		.img-linkedin{
+			margin-top: -2.5%;
+		}
+		.daftar{
+			margin-top: 4%;
+			height: 270px;
+			font-family: verdana;
+		}
+		.signmail{
+			background-color: #36AF5F;
+			width: 100%;
+		}
+		.signmail:hover{
+			background-color:#36AF5F;
+			color: #C0C0C0;
+		}
+		/*form{
+			margin-top: 4%;
+		}*/
+		.header-form{
+			margin-top: 5%;
+		}
+		.navigator{
+			margin-top: 2%;
+		}
+		.navigator li a{
+			margin-right: 2%;
+			color: gray;
+			text-decoration: none;
+		}
+		.sign-in-daftar p{
+			margin-top: 15%;
+			font-size: 8pt;
+		}
+		.kata{
+			margin-top: 4%;
+			margin-left: 30%;
+			font-size: 18pt;
+		}
+
+		.btn-light{
+			background-color: #36af5f;
+			color: white;
+			margin-left: 1%;
+			border:1px white solid;
+			-webkit-transition:all linear 0.15s;
+			transition:all linear 0.15s;
+		}
+
+		.btn-light:hover{
+			background-color: white;
+			color: black;
+		}
+		.footer{
+			padding: 1% 0;
+		}
+		.footer h4 a:hover{
+			text-decoration: none;
+		}
+		/*Header landing page*/
+		.header{
+			background-color: #36af5f;
+			color: white;
+		}
+		.logo{
+			margin: 2% 0% 2% 4%;/*top right bottom left*/
+		}
+		.login{
+			margin: 0% 5.3em;
+		}
+		.container-signup{
+			margin-top: 2%;
+			height: 470px;
+		}
+		.forgot{
+			/*margin-top: 2px;*/
+			margin-left: 19%;
+			text-decoration: none;
+			color: white;
+		}
+		.forgot:hover{
+			/*margin-top: 2px;*/
+			text-decoration: none;
+		}
+		/*daftar*/
+		.form-container{
+			margin-top: 2%;
+			border: 1px #DCDCDC solid;
+			padding: 1% 0;
+		}
+		.form-daftar{
+			margin-left: 8%;
+		}
+		/*home page css*/
+
+		/*navigasi header*/
+		.navbar-home .container{
+			margin-left: 7.4%;
+		}
+		.header-home{
+			padding: 0 0;
+		}
+		.navbar-home{
+			background-color: #36af5f;
+		}
+		.cari{
+			margin-top: 1.2%;
+		}
+		.input-cari{
+			height: 25px;
+		}
+		.navbar-home .navbar-nav li a{
+			color: white;
+		}
+		.navbar-home .navbar-nav li a:hover{
+			background-color: #2F9952;
+			color: white;
+		}
+		.form-control-feedback{
+			margin-top: -1%;
+		}
+		.dropdown .dropdown-menu li a{
+			color: black;
+		}
+		.dropdown .dropdown-menu li a:hover{
+			background-color: #36af5f;
+		}
+		.navbar .nav > .dropdown.open > a{
+			background-color: #2F9952;
+			color: white;
+		}
+		.profil-control li{
+			margin-left: 5%;
+		}
+		/*hr{
+			margin-top: -1.5%;
+			border-color: black
+		}*/
+		.pembagi{
+			margin-top: 5%;
+			border-color: #DCDCDC;/*gains boro color*/
+		}
+		/*sidebar*/
+		.content{
+			margin-left:2%;
+		}
+		.topik{
+			background-color: #DCDCDC;
+			border-color: white;
+		}
+		.list{
+			margin-top: 5%;
+		}
+		/*posting*/
+		.row-3{
+			margin-top: 15%;
+		}
+		.header-post{
+			margin-bottom: 3%;
+		}
+		.post-category{
+			padding: 1% 1%;
+			border-radius: 25px;
+			background-color:  #DCDCDC;
+			color: black;
+		}
+		.post-category:hover{
+			text-decoration: none;
+		}
+		.profile-img{
+			width: 64px;
+			height: 64px;
+			border-radius: 50%;
+		}
+		.keterangan-user{
+			color: #A5A5A5;
+		}
+		.isi-post{
+			margin-top: 2%;
+		}
+		/*komentar*/
+		.komentar-img{
+			width: 25px;
+			height: 25px;
+		}
+		.komentar-container{
+			background-color: #DAEDF2;
+			margin-left: 2%;
+			padding-top: 1%;
+			padding-bottom: 3%;
+			/*border:1px black solid;*/
+		}
+		.file-dialog{
+			visibility: hidden;
+		}
+		.komentar{
+			height: 1px;
+			max-height: 200px;
+		}
+		.btn-komentar{
+			margin-left: 70%;
+		}
+		.komentar-user{
+			margin-top: 3%;
+		}
+		.komentar-user .navigasi li a{
+			margin-left: 15%;
+		}
+		.komentar-user .navigasi li a:hover{
+			text-decoration: none;
+		}
+		.komentar-form{
+			margin-left: -3%;
+		}
+		/*modal tanya*/
+		.katagori-baru{
+			width: 30%;
+		}
+		/*modal profil*/
+		.cont-upload-gambare{
+			margin-top: 5%;
+		}
+		.cont-gambar{
+			margin-left: 3%;
+		}
+		#upload-gambar{
+			margin-left: 26%;
+		}
+		/*Profil page*/
+		.profil-container{
+			margin-bottom: 2%;
+		}
+		.list-pertanyaan li{
+			padding-top: 2%;
+			padding-left: 2%;
+		}
